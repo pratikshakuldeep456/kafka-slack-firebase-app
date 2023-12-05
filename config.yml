@@ -1,0 +1,11 @@
+
+
+const (
+	kafkaBrokers   = "your_kafka_brokers"
+	kafkaGroupID   = "your_group_id"
+	kafkaTopic     = "your_kafka_topic"
+	slackWebhook   = "your_slack_webhook_url"
+	firebaseConfig = "your_firebase_config_file.json"
+)
+
+
